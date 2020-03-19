@@ -6,11 +6,11 @@
 
 ### second solution
 
-####ERM:
+#### ERM:
 
 ![ERM](leagueERM.jpg)
 
-####textual notation:
+#### textual notation:
 
 * player ( **playerID**:INT, firstname:VARCHAR(32), lastname:VARCHAR(32) , position:VARCHAR(32) )
 
@@ -28,6 +28,6 @@
 scoreteam1:INT, scoreteam2:INT)
 
 
-####DB schema:
+#### DB schema:
 
 [DB Schema link](SoccerLeagueDB_schema.pdf)
